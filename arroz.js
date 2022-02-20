@@ -1,1 +1,1 @@
-console.log("arroz con camarones");
+console.log("arroz con verduras");
